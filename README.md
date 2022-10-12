@@ -1,3 +1,4 @@
+# About me (Sobre mim)
 - 👋:alien: Hi, I’m Teacher Fernando Righi (Olá, sou o Professor Fernando Righi)
 - 👀 :mag_right: I'm interested in programming (Estou interessado em programação)
 - 🌱 :bulb: I'm currently learning HTML, CSS and github (Atualmente estou aprendendo HTML, CSS e Github)
